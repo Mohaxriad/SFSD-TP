@@ -1,0 +1,28 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .idea/.gitignore
+#	new file:   .idea/TP-SFSD.iml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/vcs.xml
+#	new file:   .vscode/c_cpp_properties.json
+#	new file:   .vscode/launch.json
+#	new file:   .vscode/settings.json
+#	new file:   EnonceTP.pdf
+#	new file:   README.md
+#	new file:   Wilaya.txt
+#	new file:   affichage.c
+#	new file:   bib.c
+#	new file:   color.c
+#	new file:   conio.c
+#	new file:   conio2.h
+#	new file:   index.c
+#	new file:   machine_abstraite.c
+#	new file:   main.c
+#
